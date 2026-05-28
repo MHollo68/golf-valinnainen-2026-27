@@ -1,0 +1,8 @@
+{
+  "name": "golf-kalenteri",
+  "version": "1.0.0",
+  "description": "Golfvalinnaisryhmien toimintakalenteri 2026-2027",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
